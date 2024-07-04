@@ -1,6 +1,6 @@
 # Hi there, I'm Renan Carlo 👋
 
-![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow)
+![JavaScript](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/language-Python-blue)
 ![PHP](https://img.shields.io/badge/language-PHP-purple)
 
