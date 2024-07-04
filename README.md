@@ -1,5 +1,9 @@
 # Hi there, I'm Renan Carlo 👋
 
+![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow)
+![Python](https://img.shields.io/badge/language-Python-blue)
+![PHP](https://img.shields.io/badge/language-PHP-purple)
+
 Welcome to my GitHub profile! I'm a Software Developer with a passion for open-source projects and web development. Here you'll find a collection of my projects and contributions.
 
 ## About Me
