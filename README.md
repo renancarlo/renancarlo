@@ -30,11 +30,11 @@ A collection of reusable React components for faster development.
 
 ## GitHub Stats
 
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=renancarlo&show_icons=true)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renancarlo&layout=compact)
 
 ## Recent Activity
 
