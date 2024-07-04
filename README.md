@@ -1,10 +1,10 @@
 # 💫 About Me:
 Welcome to my GitHub profile! I'm a Software Developer with a passion for open-source projects and web development. Here you'll find a collection of my projects and contributions.
 
-- 🔭 I’m currently working on an innovative land holding system
+- 🔭 I’m currently working on an innovative health care system
 - 🌱 I’m currently learning advanced React techniques
 - 👯 I’m looking to collaborate on open-source projects
-- 🤔 I’m looking for help with improving my knowledge in machine learning
+- 🤔 I’m looking for help with improving my knowledge in AI and machine learning
 - 💬 Ask me about JavaScript, PHP, Python, React, and Node.js
 - 📫 How to reach me: renancarlofficial@gmail.com
 - ⚡ Fun fact: I love hiking and exploring new places
