@@ -26,7 +26,7 @@ A collection of reusable React components for faster development.
 
 - [LinkedIn](https://www.linkedin.com/in/johndoe)
 - [Twitter](https://twitter.com/johndoe)
-- [Personal Website](http://dev.renancarlo.dns.army)
+- [Web Portfolio](http://dev.renancarlo.dns.army)
 
 ## GitHub Stats
 
