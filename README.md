@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a Software Developer with a passion for open-s
 - 🤔 I’m looking for help with improving my knowledge in AI and machine learning
 - 💬 Ask me about JavaScript, PHP, Python, React, and Node.js
 - 📫 How to reach me: renancarlofficial@gmail.com
-- ⚡ Fun fact: I love hiking and exploring new places
+- ⚡ Fun fact: Im a bug killer 😂
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@renancarlokushihamasupremo) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@renancarlo) 
