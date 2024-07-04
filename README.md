@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I'm a Software Developer with a passion for open-s
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@renancarlokushihamasupremo) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@renancarlo) 
+(https://img.shields.io/badge/%27Portfolio-20B2AA?style=for-the-badge)
 
-## Portfolio:
 
 
 # 💻 Tech Stack:
