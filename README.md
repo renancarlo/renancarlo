@@ -10,7 +10,8 @@ Welcome to my GitHub profile! I'm a Software Developer with a passion for open-s
 - ⚡ Fun fact: Im a bug killer 😂
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@renancarlokushihamasupremo) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@renancarlo)[![Web Portfolio](https://img.shields.io/badge/Web%Porfolio-%231877F2.svg?logo=Web%Porfolio&logoColor=white)](https://facebook.com/@renancarlokushihamasupremo)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@renancarlokushihamasupremo) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@renancarlo)[![Web Portfolio](https://img.shields.io/badge/Web%20Portfolio-%231877F2.svg?logo=github&logoColor=white)](https://renancarlo.github.io/iPortfolio/)
+
 
 
 
