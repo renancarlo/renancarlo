@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a Software Developer with a passion for open-s
 - 📫 How to reach me: renancarlofficial@gmail.com
 - ⚡ Fun fact: Im a bug killer 😂
 
-![contribution](https://raw.githubusercontent.com/nhedger/nhedger/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/nhedger/nhedger/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@renancarlokushihamasupremo) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@renancarlo)[![Web Portfolio](https://img.shields.io/badge/Web%20Portfolio-%231877F2.svg?logo=github&logoColor=white)](https://renancarlo.github.io/iPortfolio/)
 
